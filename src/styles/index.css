@@ -12,4 +12,5 @@
     font-size: 4rem;
     padding: 1rem;
     display: inline-block;
+    border: solid; 
 }
